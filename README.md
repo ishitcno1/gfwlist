@@ -1,10 +1,10 @@
 # gfwlist
 ## Edit
-Decode `node decode.js`
-
 Edit raw_gfwlist.txt
 
-Encode `node encode.js`
+Update gfwlist.txt and gfwlist.js `node update.js`
+
+Generate raw_gfwlist from gfwlist.txt `node decode.js`
 
 ---
 
