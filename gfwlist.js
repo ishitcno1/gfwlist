@@ -4646,4 +4646,4 @@ var rules = [
 "@@||zhongsou.com",
 "@@|http://ime.baidu.jp"
 ];
-}
+
