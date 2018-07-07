@@ -4,6 +4,21 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "||amazon.com",
+  "||appshopper.com",
+  "||bandwagonhost.com",
+  "||clipconverter.cc",
+  "||gen.lib.rus.ec",
+  "||getpocket.com",
+  "||humblebundle.com",
+  "||libreoffice.org", 
+  "||library1.org",
+  "||medium.com",
+  "||mobileread.com",
+  "||seedr.cc",
+  "||wsj.com",
+  "||yahoo.com",
+
   "||altrec.com", 
   "||darpa.mil", 
   "||fastpic.ru", 
@@ -533,6 +548,7 @@ var rules = [
   ".cnn.com/video", 
   "news.cnyes.com", 
   "||cochina.org", 
+  "cocos.com",
   ".code1984.com/64", 
   "||codeshare.io", 
   "|http://tosh.comedycentral.com", 
